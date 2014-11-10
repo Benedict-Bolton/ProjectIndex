@@ -12,7 +12,7 @@ Period 6
 A basic google facisimile that will answer either "who" or "when" questions entered into its interface. Uses regex to pull answer data from scrapped web pages recieved from google module. Returns answer that has highest frequency over the webpages.
 #### https://github.com/mcookhome/seltzerWater.git
 
-### miniblog/Softblog Blog Engine
+### miniblog, Softblog Blog Engine
 #### By Genji Noguchi, Benedict Bolton, Cooper Weaver, and Sadman F.
 #### Description
 Allows users to make blog posts on a website as well as comment on said posts. Uses stored time stamps to create a basic system to display "popular"/"trending" posts. Uses SQLite to store post and comment data.
