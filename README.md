@@ -20,6 +20,9 @@ Allows users to make blog posts on a website as well as comment on said posts. U
 
 ## Mini Projects
 
+ * API Elevation Weight Loss
+  * Benedict Bolton, Brian Sapozhnikov
+  	* Benedict-Bolton/MerryFridayTrainDelays 
  * login
   * Benedict Bolton, Rebecca Yuste
   	* 6/login/benedicti_et_rebeccae
