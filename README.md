@@ -6,8 +6,14 @@ Period 6
 
 ## Main Projects
 
+### Rulo, Final Project
+#### By Benedict Bolton, Adam DeHovitz, Sophie Gershon, and Deanna Taylor
+#### Description
+Final project to enable those who want to split things to find people to split them with.
+#### https://github.com/AdamDeHovitz/Rulo
+
 ### seltzerWater, Whogle/Whengle
-#### By Deanna Talor, Benedict Bolton, Matthew Cook, and Eric Morgenstern
+#### By Deanna Taylor, Benedict Bolton, Matthew Cook, and Eric Morgenstern
 #### Description
 A basic google facisimile that will answer either "who" or "when" questions entered into its interface. Uses regex to pull answer data from scrapped web pages recieved from google module. Returns answer that has highest frequency over the webpages.
 #### https://github.com/mcookhome/seltzerWater.git
